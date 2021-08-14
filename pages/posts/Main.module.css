@@ -1,0 +1,37 @@
+.postsList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.postBox {
+  background-color: seashell;
+  width: 400px;
+  padding: 10px 10px;
+  margin:10px 10px;
+  border-radius: 10px;
+}
+.button{
+ 
+    width: 140px;
+    height: 43px;
+    background: greenyellow;
+    border: 1px solid #1d1f22;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 120%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #1d1f22;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+  
+}
